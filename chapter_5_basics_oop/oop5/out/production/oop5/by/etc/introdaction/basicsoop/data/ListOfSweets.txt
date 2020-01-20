@@ -1,0 +1,16 @@
+Аэрофлот - 100 - 3.0 - Chocolate
+Белочка - 100 - 2.99 - Chocolate
+Маска - 100 - 3.99 - Chocolate
+Berezka - 200 - 1.75 - Chocolate
+Красный октябрь - 200 - 2.99 - Chocolate
+Аленка - 100 - 2.5 - Chocolate bar
+Аленка - 100 - 2.5 - Chocolate bar
+Alpen gold - 100 - 2.5 - Chocolate bar
+Снежок - 180 - 1.5 - Caramel
+Буренка - 169 - 2.39 - Caramel
+Котик - 130 - 2.45 - Caramel
+Карамель молочная - 250 - 2.05 - Caramel
+Карамель слива - 100 - 1.0 - Caramel
+Крекер - 100 - 1.0 - Cookie
+Овсяное печенье - 100 - 2.29 - Cookie
+Аленка - 100 - 2.49 - Cookie

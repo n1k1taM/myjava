@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2142729e-1ec7-4d7f-843c-cb8ba875a8ac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Uk1a7Np1nXy83ocAioTTKureEt" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chapter_2_algoritmization" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Branching3">
+    <configuration name="Branching3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.etc.introdaction.basics.Branching3" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.etc.introdaction.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.etc.introdaction.basics.Cycle5" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.etc.introdaction.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.etc.introdaction.basics.Cycle6" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.etc.introdaction.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.etc.introdaction.basics.Cycle7" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.etc.introdaction.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.etc.introdaction.basics.Cycle8" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.etc.introdaction.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Branching3" />
+        <item itemvalue="Application.Cycle8" />
+        <item itemvalue="Application.Cycle7" />
+        <item itemvalue="Application.Cycle6" />
+        <item itemvalue="Application.Cycle5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2142729e-1ec7-4d7f-843c-cb8ba875a8ac" name="Default Changelist" comment="" />
+      <created>1575885839127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575885839127</updated>
+    </task>
+    <servers />
+  </component>
+</project>
